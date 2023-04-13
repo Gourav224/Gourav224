@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Gourav Kumar Dhiman
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning DSA
+- I'm know about C and DSA.
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on knowledge of programming
 - 📫 How to reach me 
 
