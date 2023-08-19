@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gourav Kumar Dhiman
 - 👀 I’m interested in programming
-- I'm know about C ,Java and DSA.
-- 🌱 I’m currently learning .NET.
+- I know about C, Java and DSA.
+- 🌱 I’m currently learning. NET.
 - 💞️ I’m looking to collaborate on knowledge of programming
 
 
