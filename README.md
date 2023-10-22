@@ -1,8 +1,20 @@
-- 👋 Hi, I’m Gourav Kumar Dhiman
-- 👀 I’m interested in programming
-- I know about C, Java and DSA.
-- 🌱 I’m currently learning. NET.
-- 💞️ I’m looking to collaborate on knowledge of programming
+### 👋 Hi, I'm Gourav Kumar Dhiman
+
+### About Me
+I'm a student with a passion for  development, and I'm currently deep into learning React.
+
+### 🌱 Currently Learning
+- React
+
+### 💞️ Open to Collaboration
+I'm eager to collaborate and share knowledge on React and web development. Let's work together to create fantastic projects!
+
+### Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/gourav-kumar-dhiman/)
+- Email: gkrdhiman@gmail.com
+
+Excited to explore the world of React and web development as a student! 🚀
+
 
 
 <!---
