@@ -4,7 +4,6 @@
 I'm a student on a coding odyssey, diving deep into the realms of web development with a special focus on mastering React. My passion lies in crafting elegant solutions and bringing ideas to life through code.
 
 ### 🌱 Currently Nurturing
-- React
 - JavaScript
 
 ### 💻 Tech Palette
