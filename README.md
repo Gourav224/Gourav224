@@ -4,15 +4,17 @@
 I'm a student on a coding odyssey, diving deep into the realms of web development with a special focus on mastering React. My passion lies in crafting elegant solutions and bringing ideas to life through code.
 
 ### 🌱 Currently Nurturing
-- JavaScript
+- React
 
 ### 💻 Tech Palette
+
+- Java
+- Data Structures and Algorithms (DSA)
 - HTML
 - CSS
-- Java
+- Javascript
 - C#
 - C
-- Data Structures and Algorithms (DSA)
 
 ### 👨‍💻 Coding Canvas
 - [Code Studio](https://www.codingninjas.com/studio/profile/Gourav_24)
