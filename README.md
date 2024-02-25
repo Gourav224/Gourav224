@@ -1,10 +1,10 @@
 ### 👋 Hey there, I'm Gourav Kumar Dhiman!
 
 ### 🚀 About Me
-I'm a student on a coding odyssey, diving deep into the realms of web development with a special focus on mastering React. My passion lies in crafting elegant solutions and bringing ideas to life through code.
+I'm a student on a coding odyssey, diving deep into the realms of web development with a special focus on mastering MERN. My passion lies in crafting elegant solutions and bringing ideas to life through code.
 
 ### 🌱 Currently Nurturing
-- React
+- MERN
 
 ### 💻 Tech Palette
 
@@ -29,4 +29,4 @@ I thrive on collaboration! Let's join forces and create some coding symphonies i
 - [LinkedIn](https://www.linkedin.com/in/gourav-kumar-dhiman/)
 - Email: gkrdhiman@gmail.com
 
-Embarking on this exciting journey of React, JavaScript, and web development as a student! 🎉
+Embarking on this exciting journey of MERN, Adv. DSA and web development as a student! 🎉
