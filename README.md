@@ -71,8 +71,6 @@
 </div>
 
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Gourav224/Gourav224/output/snake.svg" alt="Snake animation" />
+
