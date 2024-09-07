@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is Gourav Kumar Dhiman, and I'm a Full Stack Developer specializing in the MERN stack from Roorkee.</h2>
+<h2 align="left">Hi 👋! My name is Gourav Kumar Dhiman, and I'm a Full Stack Developer specializing in the MERN stack from Roorkee, India.</h2>
 <p>
-  I build scalable web apps with MongoDB, Express.js, React.js, and Node.js. With a strong background in data structures and over 650 solved coding challenges on LeetCode and GeeksforGeeks, I enjoy crafting intuitive UIs and robust backends. I’m currently exploring Next.js and Django to enhance my full-stack expertise further.
+  I build scalable web apps with MongoDB, Express.js, React.js, and Node.js. With a strong background in data structures and over 700 solved coding challenges on LeetCode and GeeksforGeeks, I enjoy crafting intuitive UIs and robust backends. I’m currently exploring Next.js and Backend Technologies to further enhance my full-stack expertise.
 
 </p>
 
