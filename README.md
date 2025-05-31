@@ -2,11 +2,11 @@
 
 # 👋 Hey, I'm Gourav Kumar Dhiman
 
-🚀 **Full Stack Developer | Next.js · Express.js · Django · React Native**
+🚀 **Full Stack Developer | Next.js · Express.js · Django · React Native - Django REST - FastApi - Node.js**
 
 I'm a passionate **Full Stack Developer** with expertise in building **high-performance, scalable web and mobile applications**. My work revolves around crafting robust, user-friendly, and efficient solutions using modern web technologies.
 
-With a **strong foundation in data structures & algorithms**, I've solved **700+ algorithmic challenges** across platforms like **LeetCode, GeeksforGeeks, and Code360**, reinforcing my problem-solving skills.
+With a **strong foundation in data structures & algorithms**, I've solved **782+ algorithmic challenges** across platforms like **LeetCode, GeeksforGeeks, and Code360**, reinforcing my problem-solving skills.
 
 ## 🎯 **Quick Overview**
 
