@@ -6,7 +6,7 @@
 
 I'm a passionate **Full Stack Developer** with expertise in building **high-performance, scalable web and mobile applications**. My work revolves around crafting robust, user-friendly, and efficient solutions using modern web technologies.
 
-With a **strong foundation in data structures & algorithms**, I've solved **782+ algorithmic challenges** across platforms like **LeetCode, GeeksforGeeks, and Code360**, reinforcing my problem-solving skills.
+With a **strong foundation in data structures & algorithms**, I've solved **800+ algorithmic challenges** across platforms like **LeetCode, GeeksforGeeks, and Code360**, reinforcing my problem-solving skills.
 
 ## 🎯 **Quick Overview**
 
@@ -101,7 +101,7 @@ With a **strong foundation in data structures & algorithms**, I've solved **782+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/devgouravdhiman)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gourav_kumar_dhiman)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhimangourav224/)
-
+[![Peerlist](https://github-readme-badge.peerlist.io/api/gkrdhiman?style=social)](https://peerlist.io/gkrdhiman)
 ---
 
 🚀 **Always learning, always building! Let's create something amazing together.**
