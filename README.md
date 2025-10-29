@@ -7,7 +7,7 @@
 I'm a passionate **Full Stack Developer and AI Engineer** with expertise in building **high-performance, scalable web apps and intelligent AI systems**.  
 My focus lies in **backend engineering**, **AI agent development**, and **modern frontend experiences** using cutting-edge web technologies.
 
-With a strong base in **Data Structures & Algorithms (DSA)** and hands-on experience across **Java, C++, and Python**, I bring both theoretical depth and practical versatility.  
+With a strong base in **Data Structures & Algorithms (DSA)** and hands-on experience across **Java, Javascript, C++, and Python**, I bring both theoretical depth and practical versatility.  
 I've solved **800+ algorithmic problems** across **LeetCode**, **GeeksforGeeks**, and **Code360** to sharpen my problem-solving mindset.
 
 ---
