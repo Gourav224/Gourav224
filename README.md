@@ -121,14 +121,14 @@ I've solved **800+ algorithmic problems** across **LeetCode**, **GeeksforGeeks**
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="http://www.github.com/Gourav244">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gourav244&show_icons=true&theme=radical&hide_border=true" alt="Gourav's GitHub stats" width="48%" />
+  <a href="http://www.github.com/Gourav224">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gourav224&show_icons=true&theme=radical&hide_border=true" alt="Gourav's GitHub stats" width="48%" />
   </a>
-  <a href="http://www.github.com/Gourav244">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav244&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <a href="http://www.github.com/Gourav224">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav224&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
   </a>
-  <a href="https://github.com/Gourav244">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav244&show_icons=true&theme=radical&hide_border=true&langs_count=8&layout=compact" alt="Gourav's Top Languages" width="45%" />
+  <a href="https://github.com/Gourav224">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav224&show_icons=true&theme=radical&hide_border=true&langs_count=8&layout=compact" alt="Gourav's Top Languages" width="45%" />
   </a>
 </p>
 
@@ -138,7 +138,7 @@ I've solved **800+ algorithmic problems** across **LeetCode**, **GeeksforGeeks**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gkrdhiman.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-kumar-dhiman)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gourav244)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gourav224)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/devgouravdhiman)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gourav_kumar_dhiman)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhimangourav224/)
