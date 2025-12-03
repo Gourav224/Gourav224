@@ -20,7 +20,7 @@ I've solved **800+ algorithmic problems** across **LeetCode**, **GeeksforGeeks**
 - ✉️ **Reach me at:** [gkrdhiman@gmail.com](mailto:gkrdhiman@gmail.com)
 - 💼 **Experience:** Worked with **OVOLO IT Building Solutions** and **Zero One Creation**
 - 🔥 Passionate about **Backend Systems, AI Agents, Next.js, and Scalable Architectures**
-- 🌱 Currently exploring **LangGraph, LLM Memory Systems, Serverless AI, Prisma, Neon, and Clerk Auth**
+- 🌱 Currently exploring **LangGraph, LLM Memory Systems, AI, and Go Lang**
 - 🤝 Open to **collaborations on AI-powered SaaS and developer tools**
 - 🏆 **5⭐ Java & 4⭐ Problem-Solving** on HackerRank
 
@@ -130,7 +130,7 @@ I've solved **800+ algorithmic problems** across **LeetCode**, **GeeksforGeeks**
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav224&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
   </a>
   <a href="https://github.com/Gourav224">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav224&show_icons=true&theme=radical&hide_border=true&langs_count=8&layout=compact" alt="Gourav's Top Languages" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav224&show_icons=true&theme=radical&hide_border=true&langs_count=10&layout=compact" alt="Gourav's Top Languages" width="45%" />
   </a>
 </p>
 
