@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Gourav Kumar Dhiman
 
-🚀 **Full Stack & AI Developer | Next.js · Bun · Express · Django REST · FastAPI · LangChain · LangGraph**
+🚀 **Full Stack & AI Developer | Next.js · React · NestJS · Bun · FastAPI · PostgreSQL · MongoDB · Vector DB · LangChain · LangGraph**
 
 I'm a passionate **Full Stack Developer and AI Engineer** with expertise in building **high-performance, scalable web apps and intelligent AI systems**.  
 My focus lies in **backend engineering**, **AI agent development**, and **modern frontend experiences** using cutting-edge web technologies.
@@ -18,7 +18,7 @@ I've solved **800+ algorithmic problems** across **LeetCode**, **GeeksforGeeks**
 - 🎓 Pursuing **MCA (Master of Computer Applications)** at **Chandigarh University** (Batch 2025–2027)
 - 🌐 **Portfolio:** [gkrdhiman.vercel.app](https://gkrdhiman.vercel.app)
 - ✉️ **Reach me at:** [gkrdhiman@gmail.com](mailto:gkrdhiman@gmail.com)
-- 💼 **Experience:** Worked with **OVOLO IT Building Solutions** and **Zero One Creation**
+- 💼 **Experience:** Worked with **Secure Blink**, **OVOLO IT Building Solutions**, and **Zero One Creation**
 - 🔥 Passionate about **Backend Systems, AI Agents, Next.js, and Scalable Architectures**
 - 🌱 Currently exploring **LangGraph, LLM Memory Systems, AI, and Go Lang**
 - 🤝 Open to **collaborations on AI-powered SaaS and developer tools**
